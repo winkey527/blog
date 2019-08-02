@@ -1,2 +1,2 @@
 # blog
-博客初拟
+my blog
